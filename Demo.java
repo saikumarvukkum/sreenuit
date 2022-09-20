@@ -2,6 +2,7 @@ class Demo
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello Worldssssaaa!");
+		int x=15;
+		System.out.println("Hello Worldssssaaasasa!");
 	}
 }
