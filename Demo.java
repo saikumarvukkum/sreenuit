@@ -4,7 +4,7 @@ class Demo
 	{
 		int x=1500;
 		String s="master";
-		//comment
+		//comment  
 		System.out.println("Hello Worldssssaaasasa!");
 	}
 }
